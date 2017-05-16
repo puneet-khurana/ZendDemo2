@@ -14,7 +14,7 @@ return [
                 'options' => [
                     'route'    => '/',
                     'defaults' => [
-                        'controller' => AlbumController::class, // <-- change here 
+                        'controller' => AlbumController::class, // <-- change here
                         'action'     => 'index',
                     ],
                 ],
