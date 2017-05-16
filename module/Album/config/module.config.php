@@ -1,6 +1,7 @@
 <?php
 
 namespace Album;
+
 use Zend\Router\Http\Segment;
 use Album\Controller\AlbumController;
 
